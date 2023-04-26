@@ -1,5 +1,5 @@
 # spotifyclonebyme
-This is a clone of the popular wbesite Spotify. Using Vuejs and Tailwind. 
+This is a clone of the popular website Spotify. Using Vuejs and Tailwind. 
 
 You can visit it in https://spotclonebyedugomsags.web.app/
 
