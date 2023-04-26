@@ -1,24 +1,21 @@
 # spotifyclonebyme
+This is a clone of the popular wbesite Spotify. Using Vuejs and Tailwind. 
 
-## Project setup
-```
-npm install
-```
+You can visit it in https://spotclonebyedugomsags.web.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Thanks to www.fiftysounds.com/es/ for letting me use their music
+Obras (songs): 
+The Wild Side
+The Best Time
+The Beginning
+Spirit of Fire
+Route 66
+Different
+Road Trip
+Only the Braves
+At First Sight
+A Little Bit of Rhythm
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Música de https://www.fiftysounds.com/es/

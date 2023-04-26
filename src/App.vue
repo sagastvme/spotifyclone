@@ -1,26 +1,27 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <TheTopMenu />
+
+  <the-left-menu />
+
+  <div
+    class="pb-28 bg-gradient-to-b from-gray-800 to-black overflow-auto bottom-0 fixed z-40 h-[calc(100%-60px)] w-[calc(100%-240px)] right-0"
+  >
+    <router-view />
+  </div>
+
+  <bottom-music-player v-if="getAlbum !== null" />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import { mapGetters } from "vuex";
+import BottomMusicPlayer from "./components/BottomMusicPlayer.vue";
+import TheLeftMenu from "./components/TheLeftMenu.vue";
+import TheTopMenu from "./components/TheTopMenu.vue";
 
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+  components: { TheTopMenu, TheLeftMenu, BottomMusicPlayer },
+  computed: {
+    ...mapGetters(["getAlbum"]),
+  },
+};
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

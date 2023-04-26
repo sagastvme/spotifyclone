@@ -1,0 +1,59 @@
+{
+    "name": "Album of the year",
+    "albumCover": "/images/albumCovers/albumCover.jpg",
+    "releaseYear": "2023",
+    "tracks": [
+       
+        {
+            "id": 1,
+            "name": "The Wild Side",
+            "path": "/songs/The Wild Side.mp3"
+        },
+        {
+            "id": 2,
+            "name": "The Best Time",
+            "path": "/songs/The Best Time.mp3"
+        },
+        {
+            "id": 3,
+            "name": "The Beginning",
+            "path": "/songs/The Beginning.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Spirit of Fire",
+            "path": "/songs/Spirit of Fire.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Route 66",
+            "path": "/songs/Route 66.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Different",
+            "path": "/songs/Different.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Road Trip",
+            "path": "/songs/Road Trip.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Only the Braves - FiftySounds",
+            "path": "/songs/Only the Braves - FiftySounds.mp3"
+        },
+        {
+            "id": 9,
+            "name": "At First Sight",
+            "path": "/songs/At First Sight.mp3"
+        },
+        {
+            "id": 10,
+            "name": "A Little Bit of Rhythm",
+            "path": "/songs/A Little Bit of Rhythm.mp3"
+        }
+    ]
+}
+

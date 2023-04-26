@@ -1,0 +1,39 @@
+{
+ "homeCards": [
+    {
+      "image": "https://picsum.photos/id/30/300/300",
+      "title": "Rockin' Classics",
+      "subTitle": "Get ready to headbang!"
+ 
+    },
+    {
+      "image": "https://picsum.photos/id/45/300/300",
+      "title": "Chillout Vibes",
+      "subTitle": "Relax and unwind with this playlist"
+   
+    },
+    {
+      "image": "https://picsum.photos/id/65/300/300",
+      "title": "Hip Hop Hits",
+      "subTitle": "The hottest tracks in the game"
+    },
+    {
+      "image": "https://picsum.photos/id/67/300/300",
+      "title": "EDM Madness",
+      "subTitle": "Get ready to rave!"
+      
+    },
+    {
+      "image": "https://picsum.photos/id/100/300/300",
+      "title": "Throwback Jams",
+      "subTitle": "Relive the golden age of music"
+    },
+    {
+      "image": "https://picsum.photos/id/100/300/300",
+      "title": "Summer Fun",
+      "subTitle": "Get the party started with these tracks"
+      
+    }
+  ]
+
+}
